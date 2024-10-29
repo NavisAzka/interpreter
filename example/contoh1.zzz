@@ -1,0 +1,14 @@
+# PROGRAM CONTOH 1 : USER MENGINPUTKAN BILANGAN YANG INGIN DIKONVERSI, BASIS AWAL, DAN BASIS TUJUAN
+
+cetak Bilangan yang ingin dikonversi :
+masukan angka 
+
+cetak Basis Awal dari bilangan (2/8/10/16):
+masukan basisAwal 
+
+cetak Basis Tujuan dari bilangan (2/8/10/16):
+masukan basisTujuan 
+
+cetakln ==============================
+
+ubah_basis angka basisAwal basisTujuan

@@ -1,0 +1,28 @@
+cetak Bilangan yang ingin dikonversi :
+masukan angka 
+
+cetak Basis Awal dari bilangan (2/8/10/16):
+masukan basisAwal 
+
+cetakln ==============================
+
+
+#======================================
+cetak Konversi ke basis 2  :
+var basisTujuan 2
+ubah_basis angka basisAwal basisTujuan
+
+#======================================
+cetak Konversi ke basis 8  :
+var basisTujuan 8
+ubah_basis angka basisAwal basisTujuan
+
+#======================================
+cetak Konversi ke basis 10 :
+var basisTujuan 10
+ubah_basis angka basisAwal basisTujuan
+
+#======================================
+cetak Konversi ke basis 16 :
+var basisTujuan 16
+ubah_basis angka basisAwal basisTujuan

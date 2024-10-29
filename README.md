@@ -1,4 +1,4 @@
-Tugas Struktur Data Membuat Interpreter
+# Tugas Struktur Data Membuat Interpreter
 
 ## How to Use
 ### 1. Installation
@@ -29,4 +29,9 @@ make
 run the program
 ```bash
 ./main <file program yang ingin di-run>
+```
+
+example
+```bash
+./main ../example/contoh1.zzz
 ```
