@@ -6,7 +6,7 @@ Tugas Struktur Data Membuat Interpreter
 ### 1. Installation
 Clone this repo
 ```bash
-https://github.com/NavisAzka/interpreter.git interpreter
+gitclone https://github.com/NavisAzka/interpreter.git interpreter
 
 cd interpreter
 ```
