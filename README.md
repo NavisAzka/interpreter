@@ -1,5 +1,3 @@
-# Object Tracking By Color With Distance Measurement By Polynomial Regression
-
 Tugas Struktur Data Membuat Interpreter
 
 ## How to Use
